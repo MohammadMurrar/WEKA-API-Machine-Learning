@@ -15,10 +15,10 @@
 ## 3) Print the appropriate performance metrics for Regression
 
 - First 2 models
-- 
+ 
 ![image](https://github.com/MohammadMurrar/WEKA-API-Machine-Learning/assets/147532846/d1a3af82-2326-4659-9279-959574c4d6ac)
 - Second 2 models
-- 
+
 ![image](https://github.com/MohammadMurrar/WEKA-API-Machine-Learning/assets/147532846/8a44f9ec-6ff2-4dac-b79b-c52e77106f21)
 
 
